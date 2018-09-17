@@ -1,0 +1,35 @@
+_repo: Les-liaisons-dangereuses-Lettres-recueillies-dans-une-Societe-et-publiees-pour-l-instruction-__52006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laclos, Choderlos de
+    aliases:
+    - DeLaclos, C. (Choderlos)
+    - Choderlos de Laclos, Pierre-Ambroise-François
+    - Choderlos de Laclos, Pierre-Ambroise-Francois
+    - Laclos, Pierre Choderlos de
+    birthdate: 1741
+    deathdate: 1803
+    gutenberg_agent_id: '43328'
+    url: http://www.gutenberg.org/2009/agents/43328
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2016-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52006'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seduction -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcsh 'Mock-heroic literature'
+- !lcsh 'Epistolary fiction'
+- GITenberg
+title: "Les liaisons dangereuses\r\nLettres recueillies dans une Société et publiées\
+  \ pour l'instruction de quelques autres"
+url: http://www.gutenberg.org/ebooks/52006
