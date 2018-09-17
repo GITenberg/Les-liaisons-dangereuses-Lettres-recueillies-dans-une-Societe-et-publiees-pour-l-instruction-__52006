@@ -1,5 +1,8 @@
 _repo: Les-liaisons-dangereuses-Lettres-recueillies-dans-une-Societe-et-publiees-pour-l-instruction-__52006
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52006-h/images/cover.jpg
 creator:
   author:
     agent_name: Laclos, Choderlos de
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '43328'
     url: http://www.gutenberg.org/2009/agents/43328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52006#Les-liaisons-dangereuses-Lettres-recueillies-dans-une-Societe-et-publiees-pour-l-instruction-_
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2016-05-05'
 gutenberg_type: Text
